@@ -1,0 +1,27 @@
+h2 {
+    color:green;
+  }
+  h3 {
+    color: green;
+  }
+  
+  
+  body {
+    background-color: rgb(255, 200, 300); 
+  }
+  .nome-lucas {
+      text-align: center; 
+  }
+  
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #descricao-foto {
+      float: left; 
+  }
+
+  #paragrafo-lucas {
+    background-color:greenyellow;
+
+
+}
