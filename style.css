@@ -12,7 +12,11 @@ h2 {
   .nome-lucas {
       text-align: center; 
   }
-  
+  .foto-lucas {
+      height: 300px;
+      padding: 10px;
+      background-color: rgba(136, 255, 0, 0.568);
+  }
   p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
